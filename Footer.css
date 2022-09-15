@@ -1,0 +1,31 @@
+.notification{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.notifiaction .card{
+    flex-basis: 50%;
+}
+.card img{
+    width: 100%;
+}
+.contact{
+    height: 900px;
+    width: 500px;
+    position: relative;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(98 84 243);
+    color: white;
+    text-align: center;
+}
+.footer span{
+    line-height: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+.menu_list{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    
+}
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 8px;
+    
+}
+li{
+    text-decoration: none;
+    margin-bottom: 105px;
+    color: white;
+    margin-right: 20px;
+    
+}
+li:hover{
+    color: gold;
+}

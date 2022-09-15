@@ -1,0 +1,25 @@
+header{
+   height: 50px;
+   width: 100%;
+   background-color: rgb(98 84 243);
+   line-height: 40px;
+}
+
+.left{
+    color: white;
+    letter-spacing: normal;
+   
+}
+.left h4{
+    color: gold;
+   padding: 5px 10px;
+   font-size: 20px;
+    font-weight: lighter;
+
+}
+.left span{
+    margin-left: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+}
