@@ -1,1 +1,1 @@
-# Tech-Guruji
+This is a tech website landing page.it is made by react js.react js is library of javascript.react js is used single page website & application.in this project,we make many components like navigation bar,menu bar,courses details etc.once you visit this site and tell me how much it is attractive.
